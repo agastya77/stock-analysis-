@@ -73,6 +73,7 @@ stock-analysis/
 <h2>Sample Usage</h2>
 <ul>
     <li>User enters a stock symbol (example: AAPL, TSLA, INFY)</li>
+    <li>IF you are using a stock from NSE use.NS as a suffix , for BSE use .BS as a suffix</li>
     <li>The system fetches historical data</li>
     <li>Indicators and risk metrics are calculated</li>
     <li>Charts are displayed</li>
